@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CircularImageView">
+        <attr name="gravity" format="enum">
+            <enum name="start" value="8388611" />
+            <enum name="end" value="8388613" />
+            <enum name="top" value="48" />
+            <enum name="bottom" value="80" />
+            <enum name="center" value="17" />
+            <enum name="fill" value="119" />
+        </attr>
+        <attr name="offsetAngle" format="integer" />
+        <attr name="sectorAngle" format="integer" />
+    </declare-styleable>
+</resources>
