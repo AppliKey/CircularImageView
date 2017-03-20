@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CircularImageView</string>
+    <string name="sector">Sector</string>
+    <string name="offset">Offset</string>
+    <string name="generate_size">Generate size</string>
+    <string name="count">Count</string>
+</resources>
